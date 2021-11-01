@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgba(214, 181, 109, 0.973);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid red;
+
+}
+
+.right-div {
+    margin-left: 40px; 
+   
+    
+}
+
+.left-div{
+   
+    padding: 40px;
+}
